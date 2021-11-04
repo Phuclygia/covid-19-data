@@ -27,7 +27,7 @@ def main():
                 "Country": "Kenya",
                 "Units": "samples tested",
                 "Source URL": source_url,
-                "Source label": "Kenya Ministry of Healt",
+                "Source label": "Kenya Ministry of Health",
             }
         )
 
